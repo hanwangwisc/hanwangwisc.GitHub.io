@@ -9,7 +9,7 @@ description: Some Thoughts
 
 <figure>
 <img src="{{ "https://github.com/hanwangwisc/hanwangwisc.GitHub.io/raw/master/img/hwang_snow-min.jpg" | absolute_url }}" />
-<figcaption>Snow at the University of Wisconsin-Madison</figcaption>
+<figcaption>Snow @ University of Wisconsin-Madison</figcaption>
 </figure>
 
 
