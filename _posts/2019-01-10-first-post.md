@@ -7,8 +7,10 @@ tags: [Daily,Other]
 description: Some Thoughts
 ---
 
-<div class="bg-scroll" style="background-image: url('{{ "https://github.com/hanwangwisc/hanwangwisc.GitHub.io/raw/master/img/hwang_snow-min.jpg" | absolute_url }}')"></div>
-
+<figure>
+<img src="{{ "https://github.com/hanwangwisc/hanwangwisc.GitHub.io/raw/master/img/hwang_snow-min.jpg" | absolute_url }}" />
+<figcaption>A nice mountain</figcaption>
+</figure>
 
 
 
