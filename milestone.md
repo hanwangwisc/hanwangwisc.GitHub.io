@@ -5,9 +5,9 @@ description: "代表作"
 header-img: "img/zhihu.jpg"
 ---
 
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=http://img.labnol.org/di/PowerPoint.ppt' frameborder='0'></iframe>
+You can find my CV [here](https://www.dropbox.com/s/cdm90pq41ag9pwy/HanWang_Resume_12222018.pdf?dl=0).
 
-<iframe src="https://view.officeapps.live.com/op/embed.aspx?src=http://img.labnol.org/di/PowerPoint.ppt" frameborder="0" scrolling="no" id="external-frame" onload="setIframeHeight(this)"></iframe>
+
 
 
 
