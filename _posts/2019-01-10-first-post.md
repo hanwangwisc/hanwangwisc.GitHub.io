@@ -24,7 +24,7 @@ description: Some Thoughts
 若是裹挟在一阵疾风里，雪花旋即长出爪子和牙齿，多出几分狂乱的战斗性；
 
 撒盐空中差可拟，未若柳絮因风起  
-百般姿态，可动可静，又并不至像雨一般可恨，打湿衣服让人出糗
+可动可静，又不同于雨的不解风情——打湿衣服让人出糗
 
 <figure>
 <img src="{{ "img/hwang_snow-min.jpg" | absolute_url }}" />
