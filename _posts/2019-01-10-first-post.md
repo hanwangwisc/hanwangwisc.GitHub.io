@@ -34,7 +34,7 @@ Keep in mind that paralax effect will not be captured if you like to print the p
 ```
 
 <figure>
-<img src="{{ "/media/img/mountain2.jpg" | absolute_url }}" />
+<img src="{{ "https://github.com/hanwangwisc/hanwangwisc.GitHub.io/tree/master/img/hanwangwisc.jpg" | absolute_url }}" />
 <figcaption>A nice mountain</figcaption>
 </figure>
 
