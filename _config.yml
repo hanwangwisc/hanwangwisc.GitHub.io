@@ -2,7 +2,7 @@
 title: Han's Blog # 你的博客名字，可以定义修订
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "这是我的博客"  # 一句话描述你的博客
+description: "This is my Blog."  # 一句话描述你的博客
 baseurl: ""
 url: "http://hanwangwisc.GitHub.io"  # 此处填写你的博客地址 
 
