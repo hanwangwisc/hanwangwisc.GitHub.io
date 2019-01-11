@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "milestone"
-description: "代表作"
+title: "CV"
+description: "简历"
 header-img: "img/zhihu.jpg"
 ---
 
