@@ -18,10 +18,10 @@ description: Some Thoughts
 Keep in mind that paralax effect will not be captured if you like to print the page.
 
 ```html
-{% raw %}<div class="bg-scroll" style="background-image: url('{{ "/media/img/mountain1.jpg" | absolute_url }}')"></div>{% endraw %}
+{% raw %}<div class="bg-scroll" style="background-image: url('{{ "https://github.com/hanwangwisc/hanwangwisc.GitHub.io/blob/master/img/hanwangwisc.jpg" | absolute_url }}')"></div>{% endraw %}
 ```
 
-<div class="bg-scroll" style="background-image: url('{{ "/media/img/mountain1.jpg" | absolute_url }}')"></div>
+<div class="bg-scroll" style="background-image: url('{{ "https://github.com/hanwangwisc/hanwangwisc.GitHub.io/blob/master/img/hanwangwisc.jpg" | absolute_url }}')"></div>
 
 
 #### Caption for Image
@@ -34,7 +34,7 @@ Keep in mind that paralax effect will not be captured if you like to print the p
 ```
 
 <figure>
-<img src="{{ "https://github.com/hanwangwisc/hanwangwisc.GitHub.io/tree/master/img/hanwangwisc.jpg" | absolute_url }}" />
+<img src="{{ "https://github.com/hanwangwisc/hanwangwisc.GitHub.io/blob/master/img/hanwangwisc.jpg" | absolute_url }}" />
 <figcaption>A nice mountain</figcaption>
 </figure>
 
