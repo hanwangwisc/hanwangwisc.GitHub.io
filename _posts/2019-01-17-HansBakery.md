@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 麦屯食堂
+title: 关于吃
 date: 2019-01-17
 categories: blog
 tags: [琐记(Other)]
