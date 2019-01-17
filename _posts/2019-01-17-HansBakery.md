@@ -3,7 +3,7 @@ layout: post
 title: 关于吃喝
 date: 2019-01-17
 categories: blog
-tags: [美食(food)]
+tags: [美食(Food)]
 description: Some Thoughts
 ---
 
