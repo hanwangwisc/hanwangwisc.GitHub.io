@@ -10,6 +10,6 @@ description: Some Thoughts
 2019-01-17
 
 <figure>
-<img src="{{ "img/hwang_snow-min.jpg" | absolute_url }}" />
+<img src="{{ "img/hwang_bread-min.jpg" | absolute_url }}" />
 <figcaption>豆沙面包, 2018-01-02 </figcaption>
 </figure>
