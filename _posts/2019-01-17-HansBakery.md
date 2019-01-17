@@ -7,8 +7,6 @@ tags: [美食(Food)]
 description: Some Thoughts
 ---
 
-2019-01-17
-
 <figure>
 <img src="{{ "img/hwang_bread-min.jpg" | absolute_url }}" />
 <figcaption>豆沙面包, 2019-01-17 </figcaption>
