@@ -65,7 +65,7 @@ description: Some Thoughts
 
 老屋和院子里的樱桃树已经殒没在城中村改造的风潮中，  
 爷爷经常骑的大金鹿也不知道遗落到何处。  
-风物易改，人随着慢慢成长，不知道从什么时候开始突然念旧。
+风物易改，人啊，慢慢成长，不知道从何时起突然开始念旧。
 
 {% if page.comments %}
 <div id="disqus_thread"></div>
