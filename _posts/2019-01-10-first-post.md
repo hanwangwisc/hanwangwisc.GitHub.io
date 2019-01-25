@@ -67,6 +67,13 @@ description: Some Thoughts
 爷爷经常骑的大金鹿也不知道遗落到何处。  
 风物易改，人啊，慢慢成长，不知道从何时起突然开始念旧。
 
+2019-01-25
+
+<figure>
+<img src="{{ "img/hwang_icetree-min.jpg" | absolute_url }}" />
+<figcaption>一棵-20°C开花的树 @ University of Wisconsin-Madison, 2019-01-25 </figcaption>
+</figure>
+
 {% if page.comments %}
 <div id="disqus_thread"></div>
 <script>
