@@ -17,3 +17,5 @@ Introduction- On sources of knowledge and ignorance
 - The main point he made in this introduction is to illustrate "sources of ignorance" ( "... I fear, to offend some critical ears..." ). He mentioned a critique from a friend of him: ignorance is the absence of knowledge. But how on earth can the absence of anything have sources? 
 
 - Descartes's doctrine of the veracitas dei: our intellectual intuition does not deceive us because God is truthful and will not deceive us, i.e. our intellect is a source of knowledge because God is a source of knowledge.
+
+- Does truth exist? Whether it is distinguishable from falsity? For a typical example, can we always use such "rules" to distinguish truth?  
