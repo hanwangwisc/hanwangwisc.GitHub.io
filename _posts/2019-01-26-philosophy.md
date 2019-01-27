@@ -19,7 +19,7 @@ Introduction- On sources of knowledge and ignorance
 - Does truth exist? (not discussed here, let's just assume "yes") Whether it is distinguishable from falsity, or in other words, "manifest"? (optimistic versus pessimistic views, similar to the contrast between epistemological traditionalism and rationalism.) How?  
 
 Example of rationalism:
-- Descartes's doctrine of the veracitas dei: our intellectual intuition does not deceive us because God is truthful and will not deceive us, i.e. our intellect is a source of knowledge because God is a source of knowledge.
+- Descartes's doctrine of the veracitas dei: our intellectual intuition does not deceive us because God is truthful and will not deceive us, i.e. our intellect is a source of knowledge because God is a source of knowledge. (note: René Descartes' Latinized name is Cartesius)
 
 The prisoners in the cave by Plato in Republic:
 - "The world of our expirence is only a shadow, a reflection, of the real world. Even if one of the prisoners should escape from the cave and face the real world, he would have almost insuperable difficulties in seeing and understanding it--to say nothing of his difficulties in trying to make those understand who stayed behind." -- summaried by Popper
