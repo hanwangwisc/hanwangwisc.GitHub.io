@@ -18,4 +18,4 @@ Introduction- On sources of knowledge and ignorance
 
 - Descartes's doctrine of the veracitas dei: our intellectual intuition does not deceive us because God is truthful and will not deceive us, i.e. our intellect is a source of knowledge because God is a source of knowledge.
 
-- Does truth exist? Whether it is distinguishable from falsity? For a typical example, can we always use such "rules" to distinguish truth?  
+- Does truth exist? (not discussed here, it assumes "yes") Whether it is distinguishable from falsity? (optimistic versus pessimistic views) For a typical example, can we always use such "rules" to distinguish truth?  
