@@ -39,3 +39,4 @@ description: Bakery
 <img src="{{ "img/hwang_obcake-min.jpg" | absolute_url }}" />
 <figcaption>香橙蔓越莓蛋糕, 2019-01-28 </figcaption>
 </figure>
+
