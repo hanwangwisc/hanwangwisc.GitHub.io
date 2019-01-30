@@ -40,3 +40,22 @@ description: Bakery
 <figcaption>香橙蔓越莓蛋糕, 2019-01-28 </figcaption>
 </figure>
 
+2019-01-29
+
+预告: Banana Pecan Bread
+
+Menu 
+
+3 bananas
+1/2 cup pecan
+2 cup flour
+1 tsp baking powder
+1/4 tsp salt
+1 egg
+1 cup sugar
+1/2 cup butter
+2 tbs milk 
+
+350F 45min + 325F 25min
+
+(Source: https://www.xiachufang.com/recipe/102771168/)
