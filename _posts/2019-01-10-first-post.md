@@ -46,7 +46,7 @@ description: Some Thoughts
 
 <figure>
 <img src="{{ "img/hwang_onsnow-min.jpg" | absolute_url }}" />
-<figcaption>Snow @ University of Wisconsin-Madison, 2019-01-19 </figcaption>
+<figcaption>Uomo vitruviano @ University of Wisconsin-Madison, 2019-01-19 </figcaption>
 </figure>
 
 2019-01-20
