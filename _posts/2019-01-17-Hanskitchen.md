@@ -46,15 +46,15 @@ description: Bakery
 
 Menu 
 
-3 bananas
-1/2 cup pecan
-2 cup flour
-1 tsp baking powder
-1/4 tsp salt
-1 egg
-1 cup sugar
-1/2 cup butter
-2 tbs milk 
+- 3 bananas
+- 1/2 cup pecan
+- 2 cup flour
+- 1 tsp baking powder
+- 1/4 tsp salt
+- 1 egg
+- 1 cup sugar
+- 1/2 cup butter
+- 2 tbs milk 
 
 350F 45min + 325F 25min
 
