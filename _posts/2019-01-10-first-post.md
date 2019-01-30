@@ -44,6 +44,11 @@ description: Some Thoughts
 冬天昼短夜长，才下午4点，天几乎就完全黑下来了。  
 可是突然很想喝咖啡。冲上一杯，窝在家里一边听歌一边工作。
 
+<figure>
+<img src="{{ "img/hwang_onsnow-min.jpg" | absolute_url }}" />
+<figcaption>Snow @ University of Wisconsin-Madison, 2019-01-19 </figcaption>
+</figure>
+
 2019-01-20
 
 护照寄出，北京往返芝加哥的机票也已顺利订好，让人舒一口气。假期仅剩1天。
