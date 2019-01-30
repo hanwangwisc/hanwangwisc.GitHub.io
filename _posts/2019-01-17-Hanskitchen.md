@@ -1,11 +1,13 @@
 ---
 layout: post
-title: 烘焙手账
+title: 厨房手账
 date: 2019-01-17
 categories: blog
 tags: [美食(Food)]
 description: Bakery
 ---
+
+### 烘焙篇
 
 2019-01-17
 
@@ -59,3 +61,5 @@ Menu
 350F 45min + 325F 25min
 
 (Source: https://www.xiachufang.com/recipe/102771168/)
+
+### 菜品
