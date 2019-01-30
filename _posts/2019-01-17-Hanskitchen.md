@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 厨房手账
+title: 厨房（美食实验室）
 date: 2019-01-17
 categories: blog
 tags: [美食(Food)]
