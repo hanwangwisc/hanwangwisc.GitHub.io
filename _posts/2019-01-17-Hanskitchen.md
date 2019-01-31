@@ -65,7 +65,7 @@ Menu
 ps: 2019-01-30 补图
 
 <figure>
-<img src="{{ "img/hwang_obcake-min.jpg" | absolute_url }}" />
+<img src="{{ "img/hwang_bpbread-min.jpg" | absolute_url }}" />
 <figcaption>香蕉山核桃面包, 2019-01-30 </figcaption>
 </figure>
 
