@@ -48,7 +48,7 @@ description: Bakery
 
 Menu 
 
-- 3 bananas
+- 1 bananas
 - 1/2 cup pecan
 - 2 cup flour
 - 1 tsp baking powder
@@ -58,14 +58,22 @@ Menu
 - 1/2 cup butter
 - 2 tbs milk 
 
-350F 45min + 325F 25min
+375F 45min （375的温度下面包顶部会自然裂开。）
+我觉得这款面包适合粗糙一点的质感，下次尝试加全麦粉或是麦片。
+晚上10点开始烘焙，洗个澡。第二天早餐和下午茶都有着落了，巴适。
 
-(Source: https://www.xiachufang.com/recipe/102771168/)
+ps: 2019-01-30 补图
+
+<figure>
+<img src="{{ "img/hwang_obcake-min.jpg" | absolute_url }}" />
+<figcaption>香蕉山核桃面包, 2019-01-30 </figcaption>
+</figure>
 
 ### 菜品
 
 2019-01-29
 
 今天突然心血来潮，想把一些之前的图片po上来。
+懒得动弹，等悠闲的时候再慢慢整理好了。
 
 
