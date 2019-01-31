@@ -7,7 +7,7 @@ tags: [笔记(Notes)]
 description: Some Thoughts
 ---
 Useful Links:
-Diagrams in Latex [https://sites.google.com/site/kochiuyu/Tikz#TOC-Unit-Simplex-]
+Diagrams in Latex - [Chiu Yu Ko](https://sites.google.com/site/kochiuyu/Tikz#TOC-Unit-Simplex-)
 
 2019-01-25 
 
