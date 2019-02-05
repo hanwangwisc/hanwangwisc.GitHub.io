@@ -28,4 +28,7 @@ they are in a sense the more fundamental element of an economic model.
 
 2019-02-05
 
-- China's Total fertility rate (children born/woman), source:[indexmundi](https://www.indexmundi.com/g/g.aspx?c=ch&v=31)
+China's Total fertility rate (children born/woman), source:[indexmundi](https://www.indexmundi.com/g/g.aspx?c=ch&v=31)
+Discussions on journal pricing: 
+(1) http://freakonomics.com/2005/12/07/the-economist-preston-mcafee-is-trying-to-do-some-good/
+(2) http://econ.ucsb.edu/~tedb/Journals/jpricing.html
