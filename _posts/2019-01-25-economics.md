@@ -10,7 +10,7 @@ math: true
 
 
 ### Useful Links:  
-- Blog - [Becker & Posner](https://www.becker-posner-blog.com/)  
+- Blog - [The Becker-Posner Blog](https://www.becker-posner-blog.com/)  
 - Diagrams in Latex - [Chiu Yu Ko](https://sites.google.com/site/kochiuyu/Tikz#TOC-Unit-Simplex-)
 
 ### Utility Functions/Inverse Demand:
