@@ -11,8 +11,10 @@ math: true
 
 ### Useful/Interesting Links:  
 - Blog - [The Becker-Posner Blog](https://www.becker-posner-blog.com/)  
+- Blog - [Glen Weyl](http://glenweyl.com/teaching/)
 - Diagrams in Latex - [Chiu Yu Ko](https://sites.google.com/site/kochiuyu/Tikz#TOC-Unit-Simplex-)
 - [The Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/)
+
 
 ### Specifications of Utility Functions:
 #### Almost Ideal Demand System (AIDS) (1980)
