@@ -39,3 +39,7 @@ China's Total fertility rate (children born/woman), source:[indexmundi](https://
 Discussions on journal pricing:   
 (1) http://freakonomics.com/2005/12/07/the-economist-preston-mcafee-is-trying-to-do-some-good/  
 (2) http://econ.ucsb.edu/~tedb/Journals/jpricing.html  
+
+2019-02-11
+
+Legalization of Marijuana
