@@ -50,13 +50,13 @@ Both policy-makers and monopolists have incentive to redece supply.
 
 Effects of egalization of marijuana:  
 (1) More consumption of Marijuana. (Not a good thing! Marijuana can be used in medicine, is relatively harder to get addict to and causes less severe problems compare to some other drugs. These characteristics are crucial for the strong voice for legalization.)  
-(2) Selling marijuana becomes more competitive (probably less violence and fewer gangs).  
+(2) Selling marijuana becomes more competitive --> fewer profits of dealing marijuna --> probably less violence and fewer gangs -->save money spent on police etc. for monitoring, detecting, punishing crimes.  
 (3) Taxes create a new source of government revenue that could do good.  
-(4) Clinics for marijuana addicts  
+(4) Clinics now can serve for marijuana addicts.  
 
-Policy concerns:
-(1) One problem associated with high tax on marijuana consumption is that it cannot eliminate black markets. However, experience we've learned from legalizing alchohol and tabacoo says tax rate could be raised to a very high level without serious black market problem.
-(2) In the US, people have to think about this policy at state/federal level. 
+Policy concerns:  
+(1) One problem associated with high tax on marijuana consumption is that it cannot eliminate black markets. However, experience we've learned from legalizing alchohol and tabacoo says tax rate could be raised to a very high level without serious black market problem.  
+(2) In the US, people have to think about this policy at state/federal level. Different policies may cause migration of drug dealers. How much money should be invested in police and    
 
 References:  
 [1] ["Go East, Young Marijuana Dealer" by MARIANNE MCCUNE](https://www.npr.org/sections/money/2013/05/22/185832919/go-east-young-marijuana-dealer)  
