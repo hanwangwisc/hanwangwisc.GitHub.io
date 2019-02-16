@@ -48,7 +48,7 @@ An interesting case: Legalization of Marijuana
 - In the case of marijuana (or on the context of exhaustible resource extraction)  
 Both policy-makers and monopolists have incentive to redece supply.  
 
-Effects of egalization of marijuana:  
+Effects of legalization of marijuana:  
 (1) More consumption of Marijuana. (Not a good thing! Marijuana can be used in medicine, is relatively harder to get addict to and causes less severe problems compare to some other drugs. These characteristics are crucial for the strong voice for legalization.)  
 (2) Selling marijuana becomes more competitive --> fewer profits of dealing marijuna --> probably less violence and fewer gangs -->save money spent on police etc. for monitoring, detecting, punishing crimes.  
 (3) Taxes create a new source of government revenue that could do good.  
