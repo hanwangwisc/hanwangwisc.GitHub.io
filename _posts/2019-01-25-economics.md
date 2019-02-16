@@ -43,4 +43,8 @@ Discussions on journal pricing:
 
 2019-02-11
 
-Legalization of Marijuana
+An interesting case: Legalization of Marijuana
+
+References:
+[1] ["Go East, Young Marijuana Dealer" by MARIANNE MCCUNE](https://www.npr.org/sections/money/2013/05/22/185832919/go-east-young-marijuana-dealer)
+[2] 
