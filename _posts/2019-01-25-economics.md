@@ -45,6 +45,15 @@ Discussions on journal pricing:
 
 An interesting case: Legalization of Marijuana
 
-References:
-[1] ["Go East, Young Marijuana Dealer" by MARIANNE MCCUNE](https://www.npr.org/sections/money/2013/05/22/185832919/go-east-young-marijuana-dealer)
+- In the case of marijuana (or on the context of exhaustible resource extraction)
+Both policy-makers and monopolists have incentive to redece supply.  
+
+Effects of egalization of marijuana:  
+(1) More consumption of Marijuana (Not a good thing)  
+(2) Selling marijuana becomes more competitive (probably less violence and fewer gangs)  
+(3) Taxes create a new source of government revenue that could do good.  
+(4) Clinics for marijuana addicts  
+
+References:  
+[1] ["Go East, Young Marijuana Dealer" by MARIANNE MCCUNE](https://www.npr.org/sections/money/2013/05/22/185832919/go-east-young-marijuana-dealer)  
 [2] 
