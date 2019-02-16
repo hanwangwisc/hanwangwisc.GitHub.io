@@ -45,7 +45,7 @@ Discussions on journal pricing:
 
 An interesting case: Legalization of Marijuana
 
-- In the case of marijuana (or on the context of exhaustible resource extraction)
+- In the case of marijuana (or on the context of exhaustible resource extraction)  
 Both policy-makers and monopolists have incentive to redece supply.  
 
 Effects of egalization of marijuana:  
@@ -53,6 +53,9 @@ Effects of egalization of marijuana:
 (2) Selling marijuana becomes more competitive (probably less violence and fewer gangs)  
 (3) Taxes create a new source of government revenue that could do good.  
 (4) Clinics for marijuana addicts  
+
+Policy concerns:
+One problem associated with high tax on marijuana consumption is that it cannot eliminate black markets. However, experience we've learned from legalizing alchohol and tabacoo says tax rate could be raised to a very high level without serious black market problem.
 
 References:  
 [1] ["Go East, Young Marijuana Dealer" by MARIANNE MCCUNE](https://www.npr.org/sections/money/2013/05/22/185832919/go-east-young-marijuana-dealer)  
