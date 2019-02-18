@@ -27,6 +27,7 @@ math: true
 1. $U(q_i,q_j,u_i,u_j)=a(q_i+q_j)-\frac{1}{2}(\frac{q_i^2}{u_i^2}+\frac{q_j^2}{ u_j^2}+2\gamma\frac{q_i}{u_i}\frac{q_j}{u_j})$
 2. Bowley versus Shubik-Levitan
 
+- Jaffe, S., & Weyl, E. G. (2010). Linear demand systems are inconsistent with discrete choice. The BE Journal of Theoretical Economics, 10(1).
 
 ### Notes:
 2019-01-25 
