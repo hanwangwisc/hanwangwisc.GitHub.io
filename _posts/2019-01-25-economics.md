@@ -16,6 +16,10 @@ math: true
 - Math Symbols - [wikipedia](https://en.wikipedia.org/wiki/List_of_mathematical_symbols)
 - [The Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/)
 
+### Empirical IO
+
+- [Empirical Industrial Organization: A Progress Report](https://web.stanford.edu/~jdlevin/Papers/IO.pdf)
+
 
 ### Specifications of Utility Functions:
 #### Almost Ideal Demand System (AIDS) (1980)
