@@ -28,6 +28,9 @@ math: true
 2. Bowley versus Shubik-Levitan
 
 - Jaffe, S., & Weyl, E. G. (2010). Linear demand systems are inconsistent with discrete choice. The BE Journal of Theoretical Economics, 10(1).
+- Anderson, Simon P., Andre De Palma, and Jacques-Franc¸ois Thisse ´ , “Demand for Differentiated Products, Discrete Choice Models, and the Characteristics Approach,” The Review of Economic Studies, 1989, 56 (1), 21–35.
+- LaFrance, Jerry T., “Linear Demand Functions in Theory and Practice,” Journal of Economic Theory, 1985, 37 (1),
+147–166.
 
 ### Notes:
 2019-01-25 
