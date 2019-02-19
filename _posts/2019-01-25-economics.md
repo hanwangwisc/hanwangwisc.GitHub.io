@@ -32,6 +32,8 @@ math: true
 - LaFrance, Jerry T., “Linear Demand Functions in Theory and Practice,” Journal of Economic Theory, 1985, 37 (1),
 147–166.
 
+Q: How to deal with high-dimensional integral? Monte Carlo/ Quasi-Monte Carlo?
+
 ### Notes:
 2019-01-25 
 
