@@ -14,6 +14,7 @@ math: true
 - Blog - [The Becker-Posner Blog](https://www.becker-posner-blog.com/)  
 - Blog - [Glen Weyl](http://glenweyl.com/teaching/)
 - Diagrams in Latex - [Chiu Yu Ko](https://sites.google.com/site/kochiuyu/Tikz#TOC-Unit-Simplex-)
+- tex to rtf - [converter](http://latex2rtf.sourceforge.net/)
 - Math Symbols - [wikipedia](https://en.wikipedia.org/wiki/List_of_mathematical_symbols)
 - [The Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/)
 
