@@ -3,6 +3,7 @@ layout: post
 title: Idiosyncratic
 date: 2019-01-26
 categories: blog
+published: false
 tags: [笔记(Notes)]
 ---
 
