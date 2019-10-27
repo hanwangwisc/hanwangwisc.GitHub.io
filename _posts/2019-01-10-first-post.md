@@ -30,7 +30,7 @@ description: Some Thoughts
 可动可静，又不同于雨的不解风情打湿衣服让人出糗
 
 <figure>
-<img src="{{ "img/hwang_snow-min.jpg" | absolute_url }}" />
+<img src="{{ "img/hwang_snow-min.jpg" | absolute_url }}" height="400" width="400"/>
 <figcaption>Snow @ University of Wisconsin-Madison, 2019-01-02 </figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ description: Some Thoughts
 可是突然很想喝咖啡。冲上一杯，窝在家里一边听歌一边工作。
 
 <figure>
-<img src="{{ "img/hwang_onsnow-min.jpg" | absolute_url }}" />
+<img src="{{ "img/hwang_onsnow-min.jpg" | absolute_url }}" height="400" width="400"/>
 <figcaption>“Uomo vitruviano” @ University of Wisconsin-Madison, 2019-01-19 </figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ description: Some Thoughts
 2019-01-25
 
 <figure>
-<img src="{{ "img/hwang_icetree-min.jpg" | absolute_url }}" />
+<img src="{{ "img/hwang_icetree-min.jpg" | absolute_url }}" height="400" width="400"/>
 <figcaption>一棵-20°C开花的树 @ University of Wisconsin-Madison, 2019-01-25 </figcaption>
 </figure>
 
