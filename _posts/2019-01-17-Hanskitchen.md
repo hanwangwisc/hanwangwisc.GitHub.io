@@ -13,7 +13,7 @@ description: Bakery
 
 2019-01-17
 
-#### Bread
+#### [1] Bread with red bean paste fillings
 <figure>
 <img src="{{ "img/hwang_bread-min.jpg" | absolute_url }}" height="200" width="200"/>
 <figcaption>豆沙面包, 2019-01-17 </figcaption>
@@ -52,39 +52,42 @@ description: Bakery
 
 2019-01-28
 
-香橙蔓越莓蛋糕
+#### [2] Orange & craneberry cake
 
 <figure>
-<img src="{{ "img/hwang_obcake-min.jpg" | absolute_url }}" />
+<img src="{{ "img/hwang_obcake-min.jpg" | absolute_url }}" height="200" width="200"/>
 <figcaption>香橙蔓越莓蛋糕, 2019-01-28 </figcaption>
 </figure>
 
 2019-01-29
 
-预告: Banana Pecan Bread
-
-Menu 
-
-- 1 bananas
-- 1/2 cup pecan
-- 2 cup flour
-- 1 tsp baking powder
-- 1/4 tsp salt
-- 1 egg
-- 1 cup sugar
-- 1/2 cup butter
-- 2 tbs milk 
-
-375F 45min （375的温度下面包顶部会自然裂开。）
-我觉得这款面包适合粗糙一点的质感，下次尝试加全麦粉或是麦片。
-晚上10点开始烘焙，洗个澡。第二天早餐和下午茶都有着落了。
-
-ps: 2019-01-30 补图
+#### [3] Banana Pecan Bread
 
 <figure>
-<img src="{{ "img/hwang_bpbread-min.jpg" | absolute_url }}" />
+<img src="{{ "img/hwang_bpbread-min.jpg" | absolute_url }}" height="200" width="200"/>
 <figcaption>香蕉山核桃面包, 2019-01-30 </figcaption>
 </figure>
+
+Menu
+
+<table class="tg">
+  <tr>
+    <th class="tg-0pky">1 banana</th>
+    <th class="tg-0pky">1/2 cup pecan</th>
+    <th class="tg-0pky">2 cup flour</th>
+    <th class="tg-0pky">1 tsp baking powder</th>
+    <td class="tg-0pky">1/4 tsp salt</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">1 egg</td>
+    <td class="tg-0pky">1 cup sugar</td>
+    <td class="tg-0pky">1/2 cup butter</td>
+    <td class="tg-0pky">2 tbs milk</td>
+    <td class="tg-0pky"></td>
+  </tr>
+</table>
+
+375F 45min
 
 ### 菜品
 
