@@ -11,7 +11,7 @@ description: Bakery
 ### 烘焙篇
 ***
 
-#### [2019-01-17] Bread with red bean paste fillings
+#### [2019-01-17] Bread with homemade red bean paste filling
 <figure>
 <img src="{{ "img/hwang_bread-min.jpg" | absolute_url }}" height="200" width="200"/>
 <figcaption>豆沙面包, 2019-01-17 </figcaption>
