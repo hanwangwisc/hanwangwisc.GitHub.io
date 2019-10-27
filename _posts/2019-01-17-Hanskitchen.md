@@ -7,35 +7,51 @@ tags: [美食(Food)]
 description: Bakery
 ---
 
+
 ### 烘焙篇
+***
 
 2019-01-17
 
 <figure>
-<img src="{{ "img/hwang_bread-min.jpg" | absolute_url }}" />
-<figcaption>豆沙面包, 2019-01-17 </figcaption>
+<img src="{{ "img/hwang_bread-min.jpg" | absolute_url }}" height="200" width="200"/>
+<figcaption>面包, 2019-01-17 </figcaption>
 </figure>
 
 材料：
-- 面粉 200克
-- 白砂糖 10克
-- 食盐 1克
-- 泡打粉 4克
-- 黄油 25克
-- 全脂牛奶 70ml
-- 鸡蛋 3只
-- 自制红豆沙、适量坚果作装点
+
+<table class="tg">
+  <tr>
+    <th class="tg-0pky">面粉</th>
+    <th class="tg-0pky">白砂糖</th>
+    <th class="tg-0pky">食盐</th>
+    <th class="tg-0pky">泡打粉</th>
+  </tr>
+  <tr>
+    <td class="tg-0pky">200克</td>
+    <td class="tg-0pky">10克</td>
+    <td class="tg-0pky">1克</td>
+    <td class="tg-0pky">4克</td>
+  </tr>
+    <tr>
+    <th class="tg-0pky">黄油</th>
+    <th class="tg-0pky">全脂牛奶</th>
+    <th class="tg-0pky">鸡蛋</th>
+    <th class="tg-0pky">豆沙</th>
+  </tr>
+  <tr>
+    <td class="tg-0pky">25克</td>
+    <td class="tg-0pky">70ml</td>
+    <td class="tg-0pky">3只</td>
+    <td class="tg-0pky">适量</td>
+  </tr>
+</table>
 
 375F烘烤40分钟
 
-喜欢自己动手制作豆沙。  
-清水煮红豆，大概小火慢炖2小时，  
-最后转大火收走多余水分，  
-加红糖，丢进去一块黄油，搅拌。
-
 2019-01-28
 
-布朗尼口感——湿润绵密的香橙蔓越莓蛋糕
+香橙蔓越莓蛋糕
 
 <figure>
 <img src="{{ "img/hwang_obcake-min.jpg" | absolute_url }}" />
