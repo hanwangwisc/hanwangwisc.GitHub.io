@@ -13,9 +13,10 @@ description: Bakery
 
 2019-01-17
 
+#### Bread
 <figure>
 <img src="{{ "img/hwang_bread-min.jpg" | absolute_url }}" height="200" width="200"/>
-<figcaption>面包, 2019-01-17 </figcaption>
+<figcaption>豆沙面包, 2019-01-17 </figcaption>
 </figure>
 
 材料：
