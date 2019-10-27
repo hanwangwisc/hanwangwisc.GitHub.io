@@ -11,9 +11,7 @@ description: Bakery
 ### 烘焙篇
 ***
 
-2019-01-17
-
-#### [1] Bread with red bean paste fillings
+#### [2019-01-17] Bread with red bean paste fillings
 <figure>
 <img src="{{ "img/hwang_bread-min.jpg" | absolute_url }}" height="200" width="200"/>
 <figcaption>豆沙面包, 2019-01-17 </figcaption>
@@ -48,27 +46,23 @@ description: Bakery
   </tr>
 </table>
 
-375F烘烤40分钟
+375F 40分钟
 
-2019-01-28
-
-#### [2] Orange & craneberry cake
+#### [2019-01-28] Orange & craneberry cake
 
 <figure>
 <img src="{{ "img/hwang_obcake-min.jpg" | absolute_url }}" height="200" width="200"/>
 <figcaption>香橙蔓越莓蛋糕, 2019-01-28 </figcaption>
 </figure>
 
-2019-01-29
-
-#### [3] Banana Pecan Bread
+#### [2019-01-29] Banana Pecan Bread
 
 <figure>
 <img src="{{ "img/hwang_bpbread-min.jpg" | absolute_url }}" height="200" width="200"/>
 <figcaption>香蕉山核桃面包, 2019-01-30 </figcaption>
 </figure>
 
-Menu
+Menu:
 
 <table class="tg">
   <tr>
@@ -90,19 +84,12 @@ Menu
 375F 45min
 
 ### 菜品
+***
 
-2019-01-29
-
-今天突然心血来潮，想把一些之前的图片po上来。
-懒得动弹，等悠闲的时候再慢慢整理好了。
-
-2019-02-09
-
-新购置了muffin模子，一次可以做12只mini muffin。  
-香蕉山核桃面包的方子，换成不同的造型。  
-还没出年，周六在家招待朋友，  
-(1) 红烧肉，搭配焯水后淋过香油的上海青; (2) 炒茼蒿，加煎好的培根增加鲜味；  
-(3) 烤鸡，配蘑菇和百里香； (4)洋葱炒蛋 
+#### [2019-02-09] 周六庆祝新年聚餐
+  
+(1) 红烧肉，搭配焯水后淋过香油的上海青； (2) 炒茼蒿，加煎好的培根增加鲜味；  
+(3) 烤鸡，配蘑菇和百里香； (4)洋葱炒蛋； （5）甜点：香蕉山核桃muffin x 12 
 
 - 袁枚：[随园食单](https://ctext.org/wiki.pl?if=gb&res=344157&remap=gb)
 
