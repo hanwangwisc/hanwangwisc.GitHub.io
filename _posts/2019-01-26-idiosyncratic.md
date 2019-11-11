@@ -17,6 +17,4 @@ tags: [笔记(Notes)]
 - [International Mathematical Olympiad](https://www.imo-official.org/problems.aspx)
 - [High School Math Contest](https://artofproblemsolving.com/community/c13_contests)  
 
-### Music
-[Virtual Piano Online](https://www.apronus.com/music/flashpiano.htm)
 
